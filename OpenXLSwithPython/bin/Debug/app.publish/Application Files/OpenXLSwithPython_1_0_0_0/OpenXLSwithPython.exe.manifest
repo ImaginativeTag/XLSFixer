@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="OpenXLSwithPython.exe" version="1.0.0.0" publicKeyToken="c2eaeff8fccd844b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="OpenXLSwithPython" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="OpenXLSwithPython.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="OpenXLSwithPython.exe" size="54784">
+      <assemblyIdentity name="OpenXLSwithPython" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7vbO9Ldej/gZDVIncBL8Ab9zlQcwDpoZJNkNw54vjR0=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="OpenXLSwithPython.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=SLG\martinm" issuerKeyHash="bd46208c96311c609301d7672c5cc3f6fc12d06d" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>OivQuw1Cv98lT2dkq7h7j3B7QtC7S1TfypNbigWnV90=</DigestValue></Reference></SignedInfo><SignatureValue>e+I+o1zgMO0y9cypakNkvGE3XGL89U6mX+GV0pywGh+qmmg3a9Ch1GIkHhspu1zOs5ZcU7yMRQOzU4PvnJxvWvmfrHOul60SSk3K/6kKtb3NzxmCUeMrtNrOEdc4BgAOnnKlzDeOOeNeHl3fsX7Xkik+QhCkt3t/TWuPJ0V0iW4=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vZSCNtDzGhrbU+aaCTf8H82Yyp/uMdf2RXp3lp7P22iGBIEJPXDa0tpvMI3lpA6g4XQjfTyOuWGQAuRTMPERoIAUfg+3HRC7PLIVt11uoB9RvA53ISWaxej01/yZsVwcrZi8tbe3yBYUIyUd7tni7TypEPj+LvnlUb2pcDw9MFc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="dd57a7058a5b93cadf544bbbd0427b708f7bb8ab64674f25dfbf420dbbd02b3a" Description="" Url=""><as:assemblyIdentity name="OpenXLSwithPython.exe" version="1.0.0.0" publicKeyToken="c2eaeff8fccd844b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=SLG\martinm</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/Lp7ab6QDDN9Ta1WVNGq8NjPUp3OS9t7otqtTxj3Tgg=</DigestValue></Reference></SignedInfo><SignatureValue>pR7muRBWMqBqvz4ssG6a7EnfHsr9prRJL76LWsC6oGyLQB8QEusYVJkX0B6wkMfO6RXmHOSJos4U9HLlyb1xHyKyW859S3mtigkMbKkdOJ281wYOPkTTREygMkgMS+NOY77eH30JucTXtNqu6ML7WpkEzsLb/2O6+8nqAlaf3Zs=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vZSCNtDzGhrbU+aaCTf8H82Yyp/uMdf2RXp3lp7P22iGBIEJPXDa0tpvMI3lpA6g4XQjfTyOuWGQAuRTMPERoIAUfg+3HRC7PLIVt11uoB9RvA53ISWaxej01/yZsVwcrZi8tbe3yBYUIyUd7tni7TypEPj+LvnlUb2pcDw9MFc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQIoXhVaQCSqJEKCJptaGvRTANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAUwBMAEcAXABtAGEAcgB0AGkAbgBtMB4XDTE3MDcxMjEzMjQzNVoXDTE4MDcxMjE5MjQzNVowITEfMB0GA1UEAx4WAFMATABHAFwAbQBhAHIAdABpAG4AbTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAvZSCNtDzGhrbU+aaCTf8H82Yyp/uMdf2RXp3lp7P22iGBIEJPXDa0tpvMI3lpA6g4XQjfTyOuWGQAuRTMPERoIAUfg+3HRC7PLIVt11uoB9RvA53ISWaxej01/yZsVwcrZi8tbe3yBYUIyUd7tni7TypEPj+LvnlUb2pcDw9MFcCAwEAATANBgkqhkiG9w0BAQsFAAOBgQCClvw7hNJx+eXzwKOsUFAsAQGkq28J2++vUIyZIO4Fy01dias9c+56Fq5+259YWcZToyFnl4Bij2LOKQk+DVKG1r1jxpxP9uFDLiDTCHTRn0PfmE3lQbI7WowTnNaQpyIImFVdUjmvCPlMMBK3i4btlJBjWnX9d7BCzqSKYJAC2A==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

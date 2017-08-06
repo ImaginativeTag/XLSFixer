@@ -1,0 +1,14 @@
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\Debug\OpenXLSwithPython.exe.config
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\Debug\OpenXLSwithPython.exe.manifest
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\Debug\OpenXLSwithPython.application
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\Debug\OpenXLSwithPython.exe
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\Debug\OpenXLSwithPython.pdb
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\XLSFixer.csprojResolveAssemblyReference.cache
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\XLSFixer.csproj.ResolveComReference.cache
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\XLSFixer.csproj.GenerateResource.Cache
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\OpenXLSwithPython.exe.manifest
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\OpenXLSwithPython.application
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\OpenXLSwithPython.exe
+C:\Users\martinm\documents\visual studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\OpenXLSwithPython.pdb
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\XLSFixer.OpenXLS.resources
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\Debug\XLSFixer.Properties.Resources.resources

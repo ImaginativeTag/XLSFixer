@@ -1,0 +1,14 @@
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.csproj.ResolveComReference.cache
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.OpenXLS.resources
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.Properties.Resources.resources
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.csproj.GenerateResource.Cache
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\x64\Release\XLSFixer.exe.config
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\x64\Release\XLSFixer.exe.manifest
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\x64\Release\XLSFixer.application
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\x64\Release\XLSFixer.exe
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\bin\x64\Release\XLSFixer.pdb
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.exe.manifest
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.application
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.exe
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.pdb
+C:\Users\martinm\Documents\Visual Studio 2012\Projects\OpenXLSwithPython\OpenXLSwithPython\obj\x64\Release\XLSFixer.csprojResolveAssemblyReference.cache
